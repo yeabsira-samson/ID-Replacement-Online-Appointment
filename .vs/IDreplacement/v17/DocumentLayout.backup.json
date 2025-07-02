@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\idreplacement\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\databaseconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\databaseconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\idreplacement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\idreplacement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|c:\\users\\25192\\hilcoe\\year2\\term 1\\c#\\labworkspace\\idreplacement\\idreplacement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DA1BCA-B27E-4FCB-8BD7-84770B1E7BEA}|IDreplacement\\IDreplacement.csproj|solutionrelative:idreplacement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form2.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form2.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form2.cs",
+              "RelativeToolTip": "IDreplacement\\Form2.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:37:40.628Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form3.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form3.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form3.cs",
+              "RelativeToolTip": "IDreplacement\\Form3.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:51:38.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form1.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form1.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form1.cs",
+              "RelativeToolTip": "IDreplacement\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:00:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form1.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form1.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form1.cs [Design]",
+              "RelativeToolTip": "IDreplacement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:41:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form3.Designer.cs",
+              "RelativeToolTip": "IDreplacement\\Form3.Designer.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwGwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:34:21.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form3.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form3.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form3.cs [Design]",
+              "RelativeToolTip": "IDreplacement\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:51:12.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Databaseconection.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Databaseconection.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Databaseconection.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Databaseconection.cs",
+              "RelativeToolTip": "IDreplacement\\Databaseconection.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:40:42.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form1.Designer.cs",
+              "RelativeToolTip": "IDreplacement\\Form1.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:01:19.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Program.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Program.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Program.cs",
+              "RelativeToolTip": "IDreplacement\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:47:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form2.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form2.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form2.cs [Design]",
+              "RelativeToolTip": "IDreplacement\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:33:39.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "IDreplacement\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\25192\\hilcoe\\year2\\term 1\\c#\\labWorkspace\\IDreplacement\\IDreplacement\\Form2.Designer.cs",
+              "RelativeToolTip": "IDreplacement\\Form2.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwFUBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:45:01.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
